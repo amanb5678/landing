@@ -1,0 +1,14 @@
+.banner {
+	background-image: url(../../images/banner.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding:100px 0px;
+}
+
+.banner h2 {
+  color: #0E3B43;
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+  text-align: justify;
+}

@@ -1,0 +1,47 @@
+.btn-blue {
+	background-color: #0E3B43;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size:14px;
+}
+
+.btn-blue:hover {
+	background-color: rgb(150,150,150);
+	color: white;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding-left: 0px;
+}
+
+.list-inline i{
+	font-size: 35px;
+	color: #0E3B43;
+	padding-right: 15px;
+}
+
+.list-inline i:hover {
+	color:rgb(150,150,150);
+}
+
+.btn-white {
+	background-color: white;
+	color: #0E3B43;
+	padding: 5px 5px;
+	border-radius: 5px;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-white:hover {
+	background-color: rgb(150,150,150);
+	color: white;
+}
